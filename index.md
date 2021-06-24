@@ -2,7 +2,7 @@
 
 ---
 
-### A/B Testing: Click-Through Rates 
+### Data Science Projects 
 
 A/B Testing with Chi-Squared Test to Maximize Conversions and CTRs
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
