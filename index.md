@@ -4,7 +4,7 @@
 
 ### Data Science Projects 
 
-A/B Testing with Chi-Squared Test to Maximize Conversions and CTRs(/pdf/AB Testing.ipynb)
+[A/B Testing: Click-Through Rates](/pdf/AB Testing.ipynb)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
