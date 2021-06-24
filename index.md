@@ -4,7 +4,7 @@
 
 ### A/B Testing: Click-Through Rates 
 
-A/B Testing with Chi-Squared Test to Maximize Conversions and CTRs(/sample_page)
+A/B Testing with Chi-Squared Test to Maximize Conversions and CTRs
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
