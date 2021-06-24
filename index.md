@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### A/B Testing: Click-Through Rates 
 
 A/B Testing with Chi-Squared Test to Maximize Conversions and CTRs(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
